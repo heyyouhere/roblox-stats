@@ -30,8 +30,9 @@ __Roblox is banned in China__
 ## Iran
 ## Saudi Arabia
 [Was banned in 2018 likely due to content deemed harmful for children. The ban was later lifted.](https://en.wikipedia.org/wiki/List_of_banned_video_games_by_country#Saudi_Arabia)
+__WAS UNBANED__
 ## United Arab Emirates
-Roblox is banned in UAE
+__Roblox is banned in UAE__
 
 
 # Source map
