@@ -11,6 +11,7 @@
  - Second to PUBG most googled game
  - ["..hugely popular among teens in India"](https://www.tribuneindia.com/news/nation/gaming-platform-roblox-popular-among-teens-in-india-sued-for-illegally-facilitating-child-gambling-536318)
  - [2.59 subs indian roblox chanel](https://www.youtube.com/@ROCKINDIANGAMER)
+ - around 1m users daily, by calculation and comparesent with PUBG Mobile
 
 ## China 
 __Roblox is banned in China__
