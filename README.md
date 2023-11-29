@@ -15,6 +15,9 @@
 ## South Africa
  - [just under 1.5 million visits a month](https://www.iol.co.za/business-report/companies/nedbank-the-first-african-bank-to-launch-a-roblox-game-56e972f2-03dc-4471-9545-6572380bd340)
 
+
+![top 10 countries with the most engagement time](./roblox_map.png)
+
 # Future members
 ## Argentina
   - Most googled* game in Argentina
