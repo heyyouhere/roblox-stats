@@ -6,7 +6,7 @@
 | India  | 1m   |
 | China  | Banned| 
 | South Africa | 450k *|
-| Total | ~6m |
+| __Total__ | __~6m__ |
 
 
 \* Calculated as 30% of monthly users
