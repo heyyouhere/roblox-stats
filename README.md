@@ -1,4 +1,4 @@
-# Statistics on Bricks countries
+# Statistics on BRICS countries
 ## Brazil
  - 7.8% of all players of roblox, second after US&Canada
 ## Russia 
