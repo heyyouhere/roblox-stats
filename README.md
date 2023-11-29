@@ -1,4 +1,11 @@
 # Statistics on BRICS countries
+| Country | DUA  |
+| ------- | ---- |
+| Brazil | 2.5m |
+| Russia | 2m   |
+| India  | 1m   |
+| China  | Banned| 
+| South Africa | 450k |
 ## Brazil
  - [7.8% of all players of roblox, second after US&Canada](https://labsnews.com/en/articles/business/brazil-free-mobile-games-roblox/)
  - Should be 2.5m users a day, by calculations
