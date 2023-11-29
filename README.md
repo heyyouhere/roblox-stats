@@ -1,5 +1,5 @@
 # Statistics on BRICS countries
-| Country | DUA  |
+| Country | Daily Active Users  |
 | ------- | ---- |
 | Brazil | 2.5m |
 | Russia | 2m   |
