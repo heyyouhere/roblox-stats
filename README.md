@@ -1,8 +1,11 @@
 # Statistics on BRICS countries
 ## Brazil
- - 7.8% of all players of roblox, second after US&Canada
+ - [7.8% of all players of roblox, second after US&Canada](https://labsnews.com/en/articles/business/brazil-free-mobile-games-roblox/)
+ - Should be 2.5m users a day, by calculations
+
 ## Russia 
  - 6.09% of all players, third, after US&Canada and Brazil
+ - [2 million active users a day](https://www.bloomberg.com/news/articles/2022-09-09/roblox-boasts-of-growth-in-russia-even-after-rivals-left)
 
 ## India
  - Second to PUBG most googled game
@@ -10,10 +13,10 @@
  - [2.59 subs indian roblox chanel](https://www.youtube.com/@ROCKINDIANGAMER)
 
 ## China 
- - __Roblox is banned in China__
+__Roblox is banned in China__
 
 ## South Africa
- - [just under 1.5 million visits a month](https://www.iol.co.za/business-report/companies/nedbank-the-first-african-bank-to-launch-a-roblox-game-56e972f2-03dc-4471-9545-6572380bd340)
+[just under 1.5 million visits a month](https://www.iol.co.za/business-report/companies/nedbank-the-first-african-bank-to-launch-a-roblox-game-56e972f2-03dc-4471-9545-6572380bd340)
 
 
 ![top 10 countries with the most engagement time](./roblox_map.png)
